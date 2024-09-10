@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: tomato;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  ul {
+    color: brown;
+  }
+  div h3 {
+    color: aquamarine;
+  }
+/* Selector por clase */
+.texto {
+  color: rgb(165, 42, 118);
+}
+/* Selector por id */
+#orion {
+   color: red;
+}
